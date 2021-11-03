@@ -6,4 +6,4 @@ Mission 9-12:
 - Displays a graph with data coming from the database
 - Upload to web hosting that can be accessed via the internet
 
-The website can be accessed at the following link: [studikasus1husnan.epizy.com/](url)
+The website can be accessed at the following link: http://studikasus1husnan.epizy.com/
